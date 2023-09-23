@@ -19,5 +19,5 @@ class Solution:
                     numsAux = i, j
                     return numsAux
                 
-            i += 1
+            i = i + 1
             j = i + 1
